@@ -14,7 +14,7 @@ https://drive.google.com/file/d/13u1wzaxPrplWN_PBnJCtFlybquGqQ8YZ/view?usp=shari
 Simply download and unzip it, and run the .exe in the unzipped folder. I did not do any code signing for this copy, so expect to navigate the Windows security prompts when launching this application. 
 
 
-Link to the Udemy course can be found here: https://lnkd.in/e6mg_u3m
+Link to the Udemy course can be found here: https://www.udemy.com/course/unreal-engine-5-the-complete-beginners-course/
 
 
 
