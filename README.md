@@ -1,4 +1,4 @@
-# Unreal-Sample-Game
+# Unreal Engine 5 Sample Game
 
 ### Hello, and thank you for checking out my repo! 
 
