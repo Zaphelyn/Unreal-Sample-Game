@@ -14,6 +14,9 @@ https://drive.google.com/file/d/13u1wzaxPrplWN_PBnJCtFlybquGqQ8YZ/view?usp=shari
 Simply download and unzip it, and run the .exe in the unzipped folder. I did not do any code signing for this copy, so expect to navigate the Windows security prompts when launching this application. 
 
 
+To run a game built with Unreal Engine 5 (UE5), you'll need a PC with at least a Windows 10 64-bit OS, a quad-core CPU (2.5 GHz or faster), 8GB of RAM, and a DirectX 11 or 12 compatible graphics card with at least 8GB of VRAM, according to Epic Games.
+
+
 Link to the Udemy course can be found here: https://www.udemy.com/course/unreal-engine-5-the-complete-beginners-course/
 
 
